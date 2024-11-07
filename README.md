@@ -1,1 +1,1 @@
-# The basic programs of python
+# The basics of python
